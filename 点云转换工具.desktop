@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=点云转换工具
+Comment=LAS转PCD、点云分割、批量处理工具
+Exec=/home/luo/map_ws/pointcloud_converter_gui.py
+Icon=applications-graphics
+Terminal=false
+Categories=Graphics;3DGraphics;Utility;
